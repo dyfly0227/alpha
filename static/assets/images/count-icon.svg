@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Logo@2x</title>
+    <defs>
+        <polygon id="path-1" points="125.583194 0.701353846 0 120.381231 0 171.534554 53.2885672 171.617538 178.147746 51.8814462 178.147746 0.902123077"></polygon>
+        <linearGradient x1="93.4969137%" y1="6.96082568%" x2="-5.91043236%" y2="105.288146%" id="linearGradient-3">
+            <stop stop-color="#FF1C7C" offset="0%"></stop>
+            <stop stop-color="#4D7EE9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0.838664136,83.2790769 C0.675925373,83.4423692 86.6547015,83.0167385 86.6547015,83.0167385 L86.6547015,83.0167385 C86.8924776,83.0220923 87.0794925,82.8373846 87.0741493,82.5964615 L87.0741493,82.5964615 L87.0741493,82.5964615 L87.3119254,0.190061538 C87.3119254,0.190061538 87.3119254,0.190061538 87.3119254,0.190061538 L87.3119254,0.190061538 C87.0527761,0.198092308 0.838664136,83.2790769 0.838664136,83.2790769" id="path-4"></path>
+        <linearGradient x1="52.0149203%" y1="92.1502698%" x2="47.4151912%" y2="-4.15452822%" id="linearGradient-6">
+            <stop stop-color="#4D7EE9" offset="0%"></stop>
+            <stop stop-color="#FF1C7C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(31.000000, 33.000000)">
+            <g id="group-">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-6"></g>
+                <polygon id="Fill-5" fill="url(#linearGradient-3)" mask="url(#mask-2)" points="125.583194 0.701353846 0 120.381231 0 171.534554 53.2885672 171.617538 178.147746 51.8814462 178.147746 0.902123077"></polygon>
+            </g>
+            <g id="group-" transform="translate(90.835821, 88.338462)">
+                <mask id="mask-5" fill="white">
+                    <use xlink:href="#path-4"></use>
+                </mask>
+                <g id="Clip-8"></g>
+                <path d="M0.838664136,83.2790769 C0.675925373,83.4423692 86.6547015,83.0167385 86.6547015,83.0167385 L86.6547015,83.0167385 C86.8924776,83.0220923 87.0794925,82.8373846 87.0741493,82.5964615 L87.0741493,82.5964615 L87.0741493,82.5964615 L87.3119254,0.190061538 C87.3119254,0.190061538 87.3119254,0.190061538 87.3119254,0.190061538 L87.3119254,0.190061538 C87.0527761,0.198092308 0.838664136,83.2790769 0.838664136,83.2790769" id="Fill-7" fill="url(#linearGradient-6)" mask="url(#mask-5)"></path>
+            </g>
+            <polygon id="Fill-9" fill-opacity="0.4" fill="#FFFFFF" points="0.000534328358 120.381498 0.000534328358 171.534822 178.148281 0.902390769 125.583728 0.701621538"></polygon>
+        </g>
+    </g>
+</svg>

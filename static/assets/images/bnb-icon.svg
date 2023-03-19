@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>BSC@3x</title>
+    <g id="Market-Overview" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="component-" transform="translate(-660.000000, -444.000000)" fill-rule="nonzero">
+            <g id="BSC" transform="translate(660.000000, 444.000000)">
+                <circle id="Oval" fill="#F9B700" cx="12" cy="12" r="12"></circle>
+                <polygon id="Path" fill="#FFFFFF" points="6.17739 10.5277 7.85478 12.2045 6.17739 13.8812 4.5 12.2045"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="12 10.5277 13.6774 12.2045 12 13.8812 10.3226 12.2045"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="17.8226 10.5277 19.5 12.2045 17.8226 13.8812 16.1452 12.2045"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="12.0159 4.69873 16.6075 9.28854 14.9301 10.9653 10.3385 6.37548"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="12.0217 4.69873 7.4301 9.28854 9.10749 10.9653 13.699 6.37548"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="12.0159 19.6987 16.6075 15.1089 14.9301 13.4322 10.3385 18.022"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="12.0217 19.6987 7.4301 15.1089 9.10749 13.4322 13.699 18.022"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

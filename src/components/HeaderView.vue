@@ -33,7 +33,7 @@
           </ul>
         </div>
       </div>
-      <div class="r2 btn">
+      <!-- <div class="r2 btn">
         <img src="@/assets/icons/r2.svg" alt="" width="20" height="20" />
         0
         <div class="drop">
@@ -60,7 +60,7 @@
             </li>
           </ul>
         </div>
-      </div>
+      </div> -->
       <div class="r3 btn" @click="connect" id="connectwallet">
         Connect Wallet
       </div>

@@ -1,0 +1,19 @@
+@import './variables';
+@import './mixins';
+@import './typography';
+@import './btns';
+
+
+.custom-wrapper{
+    min-height: 100vh;
+    background: url(../images/body-bg.jpg)no-repeat center;
+    background-size: cover;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+a{
+    text-decoration: none;
+}

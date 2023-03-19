@@ -3,6 +3,7 @@ import MyPosition from "../views/MyPosition.vue";
 import Staking from "../views/Staking.vue";
 import Rewards from "../views/Rewards.vue";
 import Referral from "../views/Referral.vue";
+import Overview from "../views/Overview.vue";
 
 const router = createRouter({
   history: createWebHashHistory(import.meta.env.BASE_URL),
@@ -31,6 +32,11 @@ const router = createRouter({
       path: "/referral",
       name: "referral",
       component: Referral,
+    },
+    {
+      path: "/overview",
+      name: "overview",
+      component: Overview,
     },
   ],
 });

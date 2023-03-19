@@ -126,7 +126,7 @@ onMounted(() => {});
   display: flex;
 }
 .left {
-  width: 570px;
+  min-width: 570px;
 }
 .line1 {
   font-size: 32px;
@@ -222,7 +222,7 @@ onMounted(() => {});
 }
 
 .right {
-  width: 430px;
+  /* width: 430px; */
   min-width: 430px;
   border-radius: 16px;
   border: 1px solid rgba(255, 255, 255, 0.1);

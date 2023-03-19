@@ -1,0 +1,41 @@
+@import '../variables';
+.header {
+    .nav-list{
+        .nav-link{
+            svg {
+                width: 26px;
+                height: 26px;
+                display: inline-block;
+                stroke: $clr-dark-gray;
+            }
+
+        }
+       
+
+        .dropdown-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding-block: 6px;
+        }
+
+        .btn-outline-gradient{
+            .nav-link{
+                display: flex;
+                -webkit-box-align: center;
+                align-items: center;
+                padding: 6px 10px;
+                border-radius: 8px;
+                height: 40px;
+                background-color: rgb(47, 58, 65);
+                &::after{
+                    display: none;
+                }
+            }
+        }
+    }
+}
+.nav-icon{
+    width: 24px !important;
+    height: 24px !important;
+}
