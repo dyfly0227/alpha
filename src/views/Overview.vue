@@ -1,6 +1,7 @@
 <template>
   <div class="container">
     <iframe
+      id="frameview"
       src="../../static/index.html"
       frameborder="0"
       width="100%"
@@ -16,7 +17,9 @@ import { ref, onMounted } from "vue";
 import { useRoute, useRouter } from "vue-router";
 const route = useRoute();
 const router = useRouter();
-onMounted(() => {});
+onMounted(() => {
+  window.frame = document.querySelector("#frameview");
+});
 </script>
 <style scoped>
 .container {

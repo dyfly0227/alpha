@@ -548,13 +548,12 @@ $(document).ready(function () {
 //   });
 // });
 document.getElementById('connectwallet2').addEventListener('click', event => {
-    console.log(333)
   let account;
   ethereum.request({method: 'eth_requestAccounts'}).then(accounts => {
     account = accounts[0];
     console.log(account);
     let showaddress = account.substring(0, 5) + "..." + account.substring(38,)
-    document.getElementById('connectwallet').innerText=showaddress;
+    parent.window.document.getElementById('connectwallet').innerText=showaddress;
     document.getElementById('connectwallet2').innerText="Start at 5th, April."
   });
 

@@ -30,6 +30,14 @@ li {
 a {
   text-decoration: none;
 }
+.flex-center {
+  display: flex;
+  justify-content: center;
+}
+.flex-middle {
+  display: flex;
+  align-items: center;
+}
 .container-wrap {
   max-width: 100vw;
   min-width: 1300px;

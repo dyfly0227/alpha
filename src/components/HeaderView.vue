@@ -87,6 +87,11 @@ const connect = () => {
     account = accounts[0];
     let showaddress = account.substring(0, 5) + "..." + account.substring(38);
     document.getElementById("connectwallet").innerText = showaddress;
+    if (window.frame) {
+      window.frame.contentWindow.document.getElementById(
+        "connectwallet2"
+      ).innerText = "Start at 5th, April.";
+    }
   });
 };
 onMounted(() => {});
