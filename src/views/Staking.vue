@@ -107,7 +107,7 @@
       </div>
       <div class="flex-between">
         <span>Voting Power</span>
-        <span>0 xOLE (0%)</span>
+        <span>0 ALPHA (0%)</span>
       </div>
       <div class="con-btn">Connect Wallet</div>
     </div>
